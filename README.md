@@ -2,7 +2,7 @@
 
 This game was coded in 2 days for my A-Level computer science final year coursework.
 
-All art assests where made in 2 days and where part of my Graphics A-Level first year coursework. 
+All art assests where made in 2 days and where part of my Graphics A-Level final year coursework. 
 
 Music is from The World Ends With You. 
 
