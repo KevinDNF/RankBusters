@@ -6,7 +6,7 @@ All art assests where made in 2 days and where part of my Graphics A-Level final
 
 Music is from The World Ends With You. 
 
-For a working demo run the .exe at /test.buildv84f/glfw3/gcc\_winnt/Debug/MonkeyGame.exe
+For a working demo run the .exe at Demo/MonkeyGame.exe
 
 ## About Monkey X
 
