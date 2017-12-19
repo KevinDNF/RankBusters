@@ -22,10 +22,8 @@ Monkey X is a open source programming language with a small community.
 
 ## Some screenshots
 
-![Pic1](/Test.data/MainMenuBackground.png)
-
-
-![Pic2](/Test.data/CSBackground.png)
-
-
-
+![Pic1](Screenshots/Screenshot1.png)
+![Pic2](Screenshots/Screenshot2.png)
+![Pic3](Screenshots/Screenshot3.png)
+![Pic4](Screenshots/Screenshot4.png)
+![Pic5](Screenshots/Screenshot5.png)
